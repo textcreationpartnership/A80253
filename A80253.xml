@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A common-vvealth or nothing: or, Monarchy and oligarchy prov'd parallel in tyranny. In xii. queries, worthy the consideration of all publique spirits in this juncture. By a well-wisher to the true security of both Christian and civil liberty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80253</idno>
+            <idno type="STC">Wing C5576</idno>
+            <idno type="STC">Thomason E986_17</idno>
+            <idno type="STC">ESTC R207792</idno>
+            <idno type="EEBO-CITATION">99866821</idno>
+            <idno type="PROQUEST">99866821</idno>
+            <idno type="VID">119107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119107)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E986[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A common-vvealth or nothing: or, Monarchy and oligarchy prov'd parallel in tyranny. In xii. queries, worthy the consideration of all publique spirits in this juncture. By a well-wisher to the true security of both Christian and civil liberty.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Livewell Chapman, at the Crown in Popes-Head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 14.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Despotism --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119107:1" rendition="simple:additions"/>
+            <p>A Common-vvealth <hi>Or<g ref="char:punc">▪</g>
+               </hi> NOTHING: Or, MONARCHY and OLIGARCHY Prov'd Parallel in Tyranny.</p>
+            <p>IN XII. QUERIES, Worthy the Conſideration of all pub<g ref="char:EOLhyphen"/>lique Spirits in this juncture.</p>
+            <p>By a Well-wiſher to the true ſecurity of both Chriſtian and Civil Liberty.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Livewell Chapman,</hi> at the Crown in Popes-Head-Alley. 1659. <add>June 14.</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119107:2"/>
+            <pb n="1" facs="tcp:119107:2"/>
+            <head>A Common-vvealth <hi>Or</hi> NOTHING; Or, MONARCHY and OLIGARCHY prov'd Parallel in Tyranny.</head>
+            <p n="1">I. WHether in the Circle of Government, the People have not had hitherto ample experience of Princely and private Spirits? or where a ſingle Councel hath the power of debate and reſult, whether or no it can be accounted a Commonwealth, and not an Oli<g ref="char:EOLhyphen"/>garchy? In this caſe will our Grandee Officers of the Ar<g ref="char:EOLhyphen"/>my, confederate with ſome Grandee Miniſters of State, give a Government to the Parliament, People, and Army, as they have made and owned a Commander in chief?</p>
+            <p n="2">II. Why ſhould the Peoples Repreſentatives expect to per<g ref="char:EOLhyphen"/>petuate their power otherwayes then by Rotation? for ſo may not the Legiſlative authority ſit continually, though ſucceſſively? otherwayes, will not Intervals convert a Com<g ref="char:EOLhyphen"/>monwealth into Monarchy, (the Legiſlative Authority in<g ref="char:EOLhyphen"/>termitted) or into Oligarchy, in caſe they be Govern'd by a Councel?</p>
+            <p n="3">
+               <pb n="2" facs="tcp:119107:3"/> III. Whether a Councel of State in any Commonwealth, had Executive power, except in the management of a War, or Treaty with forraign States? How contrary then are the Armies Propoſals (in the courſe of popular prudence) to a Commonwealth? nay, how natural<g ref="char:punc">▪</g> is it for any unlimited power to reſolve according to their own, rather then the Peoples Intereſt?</p>
+            <p n="4">IV. Whether for <hi>Brutus</hi> to expel Kings, and not to pro<g ref="char:EOLhyphen"/>mote popular Liberty, was to lay obligation upon the Peo<g ref="char:EOLhyphen"/>ple (in hatred of Oligarchy) to bring back Monarchy? but what end or intereſt can a ſupream Councel (thus conſtitu<g ref="char:EOLhyphen"/>ted) have, to deſtroy it ſelf by ſetting up Monarchy?</p>
+            <p n="5">V. Grant civil Liberty, ſeparable from Liberty of conſcience, and then ſhow us (who can) what ſecurity we ſhall have for our civil Liberty? was it not the pretence of the late Apoſtate uſurper, that he could ſee no other means but force and violence to ſecure the Liberty of conſcience? but what incouragement hath liberty of conſcience had to truſt more unto men then civil Liberty? or what became of civil Liber<g ref="char:EOLhyphen"/>ty intruſted to any Prince, or Oligarchy? and where hath the free State, or Commonwealth, been ever known, that gave not Liberty of conſcience? in this ſence, do they who dare truſt men, underſtand me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? or do they who will not truſt Laws, underſtand a Commonwealth?</p>
+            <p n="6">VI. If <hi>Rome, Athens, Sparta, Venice, Holland,</hi> &amp;c. were not
+<pb n="3" facs="tcp:119107:3"/> moleſted with civil war and ſedition, as <hi>Germany, France, Spain, England,</hi> &amp;c. were<g ref="char:punc">▪</g> why then will men call a Com<g ref="char:EOLhyphen"/>monwealth confuſion? what confuſion had we in <hi>England,</hi> whileſt the <hi>Norman</hi> Line ſtrove for abſolute Power, the Barons for Liberty, <hi>York</hi> and <hi>Lancaſter</hi> for Royal dignity, Parliaments, People, and Army under the uſurped power of the late perfidious ſingle Perſon? but how probable is it that an equal Commonwealth may be received with im<g ref="char:EOLhyphen"/>braces, ſeeing a Tyranny came not onely in, but was ſup<g ref="char:EOLhyphen"/>ported without bloodſhed?</p>
+            <p n="7">VII. If <hi>Nimrod</hi> firſt broke the firſt Goverment, which was Pa<g ref="char:EOLhyphen"/>ternal, by uſurping abſolute power to inſlave the People by Policy, force, and fraud: if ſome Families put themſelves under the power of one, as a Prince; others<g ref="char:punc">▪</g> under <hi>Ariſto<g ref="char:EOLhyphen"/>cracy,</hi> wherein Noblemen<g ref="char:punc">▪</g> &amp;c. bare ſway, (as in <hi>Venice</hi>) or <hi>Ariſtocracies</hi> mixt with <hi>Democracies,</hi> like that of the United Provinces, where the great men conſulting of the affairs of the Commonwealth with the Peoples Deputies, are Annual<g ref="char:EOLhyphen"/>ly choſen; or Oligarchy, which is the Government of a Commonwealth, conſiſting of a ſmall number, over powering the People by Policy and force, or who have Supremacy pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon them by the People: ſuch were the Decemviri, and Triumviri amongſt the Romans<g ref="char:punc">▪</g> ſuch the 30. Tyrants in <hi>Athens.</hi> And why then m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y not <hi>England, Scotland<g ref="char:punc">▪</g>
+               </hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> be not onely called, but become a Commonwealth?
+<list>
+                  <item>1. By owning the Power to elect their Repreſentatives<g ref="char:punc">▪</g> al<g ref="char:EOLhyphen"/>lowing them to ſit but one year.</item>
+                  <item>2. For that they tru<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t not the Militia in the hands of one Perſon, nor the Law<g ref="char:EOLhyphen"/>making Power in a State Councel, are they not alſo ſparing in making places too ſpecious for profit, power, titular turns, or duration of time? will now ſuch a conſtitution be found freer from corruption, oppreſſion<g ref="char:punc">▪</g> &amp;c. then theſe fore-mentioned wherein Perſons Gov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing, are protected from juſtice or puniſhment for their arbitrary uſurp<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ion<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp;c.</item>
+               </list>
+            </p>
+            <p n="8">
+               <pb n="4" facs="tcp:119107:4"/> VIII. May we not without Intervals of Parliament (by frequent changing of Officers (civil and military,) in a little time, underſtand how to preſerve our ſelves, without the defective continuation of Perſons, Councels, Commanders, Senates? &amp;c. nay, might we not at this very juncture (ſuch qualifications premiſed) hope to preſerve the Intereſt of the Common<g ref="char:EOLhyphen"/>wealth, though we put the abſolute freedome of Election into the Peoples power? otherwayes, may not a Phyſitian force his Patient for the accompliſhment of his cure? does not true Liberty ſtand in need ſometimes of neceſſary limi<g ref="char:EOLhyphen"/>tations? or is not juſt Liberty conſi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent with ſociety? and ought we not put our helping hand to hinder the ſelf-Aſſaſſination of one, much more of many? who would not endeavour to deprive any one of the Liberty of deſtroy<g ref="char:EOLhyphen"/>ing himſelf? is it any wickedneſs to make a People happy againſt their wills?</p>
+            <p n="9">IX. Whether the preſent Parliament (as that publick ſpirited Patriot Sir <hi>Arthur</hi> ſaid) (having for theſe laſt 5. years been turn'd to graſs) ought not now (to wipe away all fore-paſt miſpriſions) to act like Men and Chriſtians in all reſpects, labouring to prevent (for the future) all fore-paſt uſurpa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ons, in Church, State, and Army, occaſioned by plurality in places, exorbitance in Power, exuberance in Titles, or ſuperfluity in pay?</p>
+            <p n="10">X. Whether thoſe who have Apoſtatized from the good Old Cauſe, Protectors, and Inſtrument-makers, or Promo<g ref="char:EOLhyphen"/>ters, &amp;c. ſuch like purſuers of private or Perſonal im<g ref="char:EOLhyphen"/>ports, or ſuch who ſuffered upon a publick purſuance,
+<pb n="5" facs="tcp:119107:4"/> abominating the uſurpations and cruelties of <hi>Oliver Crom<g ref="char:EOLhyphen"/>wel,</hi> ought to be firſt reſtored, or preferred in the Army?</p>
+            <p n="11">XI. Whether thoſe who have formerly not onely truckled under a ſingle Perſon, (by making or promoting Inſtruments of Tyranny and ſervitude) but have ſtill a Pope in their bel<g ref="char:EOLhyphen"/>lies, or a ſpite to popular Government, the avowed Enemy to their Lordly Gradenrs, which how loath they are to lay aſide, is now too well witneſſed by their unwillingneſs to receive their Martial Commiſſions from the Peoples Re<g ref="char:EOLhyphen"/>preſentatives in Parliament, &amp;c. or thoſe who are down<g ref="char:EOLhyphen"/>right for a free State, and contented without any reſtaura<g ref="char:EOLhyphen"/>tion or<g ref="char:punc">▪</g> reparation (as to places of profit and preferment, to walk in quirpo either in City or Countrey) are fitteſt (both in Councel and Army) to conſider what kinde of ſettlement is ſafeſt and moſt ſutable to the preſervation or promotion of publick, popular freedome?</p>
+            <p n="12">XII. Whether a perpetual Parliament, a ſingle Perſon, a co-or<g ref="char:EOLhyphen"/>dinate Senate, or another Houſe, &amp;c. be not alternate Pa<g ref="char:EOLhyphen"/>rents, begetting, and begotten; or however, very near of Kinne? And whether the People are obliged not onely to ſuſpect, but alſo to prevent the power, or promotion, of all ſuch Aſpirers? as whether the Parliament may not by over<g ref="char:EOLhyphen"/>prudential procedures with ſuch, weaken both the Hearts and Hands of their beſt friends? Laſtly, whether the Parlia<g ref="char:EOLhyphen"/>ment, the good People of theſe Nations, with all their ho<g ref="char:EOLhyphen"/>neſt Officers, Soldiers, (both in, and yet out of the Army) be not obliged unanimouſly to promote the publick, in op<g ref="char:EOLhyphen"/>poſition to all private purſuances?</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
